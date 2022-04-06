@@ -24,14 +24,14 @@ class Config(object):
 
 📡 **𝐇𝐨𝐬𝐭𝐞𝐝 𝐨𝐧:** [𝐇𝐞𝐫𝐨𝐤𝐮](https://heroku.com)
 
-🧑🏻‍💻 **𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫:** [@TAMILAN_MK](https://t.me/TAMILAN_MK) 
+🧑🏻‍💻 **𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫:** [@Dark_World7_4](https://t.me/Dark_World7_4) 
 
-👥 **𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩:** [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/Tamil_prime)
+👥 **𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩:** [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/Rangermoviess)
 
-📢 **𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥:** [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/TamilPrime_LinkZz)
+📢 **𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥:** [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/Rangermoviess)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** [@TAMILAN_MK](https://t.me/TAMILAN_MK) 
+🧑🏻‍💻 **Developer:** [@Dark_World7_4](https://t.me/Dark_World7_4) 
 
 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐢𝐬 𝐒𝐮𝐩𝐞𝐫 𝐍𝐨𝐨𝐛. 𝐉𝐮𝐬𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐃𝐨𝐜𝐬. 𝐀𝐧𝐝 𝐒𝐞𝐞𝐤𝐢𝐧𝐠 𝐇𝐞𝐥𝐩 𝐅𝐫𝐨𝐦 𝐏𝐫𝐨 𝐂𝐨𝐝𝐞𝐫𝐬\n**@TamilPrime_LinkZz**
 
